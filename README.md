@@ -1,5 +1,4 @@
 # project.Connect4withBOT
-Implemented MiniMax algorithm in the traditional Connect4 game in JavaFX.
 
 Implemented MiniMax algorithm in the traditional Connect4 game in JavaFX.
 
